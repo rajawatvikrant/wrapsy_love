@@ -97,7 +97,7 @@ function Home() {
 
           <h1 className="mt-7 font-display text-[2.6rem] leading-[1.05] font-bold tracking-tight sm:text-6xl lg:text-7xl">
             <span className="hero-line block">Where emotions are</span>
-            <span className="hero-line mt-2 block font-script text-gradient-blush text-[3rem] leading-[1.8]  sm:text-7xl lg:text-8xl">
+            <span className="hero-line mt-2 block font-script text-gradient-blush text-[3rem] leading-[1.8]  sm:text-7xl ">
               Wrapped With Love
             </span>
           </h1>
